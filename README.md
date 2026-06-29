@@ -1,4 +1,4 @@
-# Medicure: Full-Stack DevSecOps CI/CD Automation Framework
+# Healthcare App GitOps Pipeline
 
 A production-ready DevSecOps pipeline orchestrating a robust Java Spring Boot backend healthcare application. This project focuses on automated continuous integration, strict vulnerability shifting-left gates, compliance reporting, and automated GitOps manifest synchronization.
 
