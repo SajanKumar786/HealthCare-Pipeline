@@ -1,4 +1,8 @@
 cat << 'EOF' > .gitattributes
+src/main/resources/static/**/* linguist-documentation
 src/main/webapp/**/* linguist-documentation
 *.html linguist-documentation
+*.css linguist-documentation
+*.scss linguist-documentation
+*.sass linguist-documentation
 EOF
